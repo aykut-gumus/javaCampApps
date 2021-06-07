@@ -1,6 +1,6 @@
 # JAVA+REACT Developer Training Camp
 
-## Instructor : Engin Demiroğ 
+## Instructor : Engin Demiroğ (kodlama.io)
 
 ### Repository where the applications made by the trainer during the camp are collected
 
